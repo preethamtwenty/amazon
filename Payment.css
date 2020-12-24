@@ -1,0 +1,33 @@
+.payment{
+    margin-top: 60px;
+   
+}
+.payment_user{
+    font-size: 30px;
+    margin:20px;
+}
+.payment_delivery{
+    
+    
+}
+.delivery_heading{
+    font-size: 20px;
+    margin-top: 30px;
+    font-weight: bolder;
+    margin-bottom: 10px;
+ 
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+.delivery_address{
+    margin-left: 20px;
+    padding:2px;
+    margin-bottom: 20px;
+    font-size: 17px;
+
+}
+.items_heading{
+    font-weight: bold;
+    margin-left: 20px;
+    font-size: 20px;
+}
